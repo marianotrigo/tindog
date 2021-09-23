@@ -1,2 +1,1 @@
-# tindog
-First proyect using Bootstrap(4)
+TinDog Starting Files
